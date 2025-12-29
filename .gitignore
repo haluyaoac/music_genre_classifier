@@ -7,7 +7,12 @@ venv/
 Thumbs.db
 .vscode/
 .idea/
+
+# data / model artifacts
 data/raw/
-data/processed/
 data/features/
+data/splits/
 models/checkpoints/
+
+# logs
+*.log

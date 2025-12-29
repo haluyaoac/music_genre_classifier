@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+tqdm
+
+librosa
+soundfile
+audioread
+
+torch
+torchvision
+
+streamlit
