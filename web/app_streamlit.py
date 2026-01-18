@@ -24,6 +24,7 @@ import matplotlib.pyplot as plt
 from src.infer import predict_proba_file, topk_from_proba
 from src.utils_audio import load_audio, split_fixed, mel_spectrogram, normalize_mel
 
+#python -m streamlit run .\web\app_streamlit.py
 # 可选：让页面干净一点（不影响功能）
 warnings.filterwarnings("ignore", category=FutureWarning)
 warnings.filterwarnings("ignore", message="PySoundFile failed*")

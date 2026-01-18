@@ -1,0 +1,16 @@
+              precision    recall  f1-score   support
+
+   classical     0.7857    0.9167    0.8462        12
+        jazz     0.7273    0.7273    0.7273        11
+        rock     0.7500    0.5000    0.6000         6
+         pop     0.9167    0.8462    0.8800        13
+      hiphop     0.9000    1.0000    0.9474         9
+
+    accuracy                         0.8235        51
+   macro avg     0.8159    0.7980    0.8002        51
+weighted avg     0.8225    0.8235    0.8180        51
+
+
+test_acc=0.823529
+macro_f1=0.800159
+skipped=0
